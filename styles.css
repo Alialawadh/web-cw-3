@@ -1,0 +1,23 @@
+.imgs img{
+    display: block;
+}
+ 
+.ps4 {
+background-color: blue;
+}
+
+.nin{
+    background-color: red;
+}
+
+.pc{ 
+    background-color: green;
+}
+
+.table{
+    border-color: blue;
+}
+
+.th{
+    display: inline-block;
+}
